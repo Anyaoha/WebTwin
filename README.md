@@ -66,8 +66,8 @@ Upload the extracted folder to your current project and:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sirioberati/website-extractor.git
-   cd website-extractor
+   git clone https://github.com/sirioberati/WebTwin.git
+   cd WebTwin
    ```
 
 2. Open the project in Cursor IDE:
@@ -93,8 +93,8 @@ Upload the extracted folder to your current project and:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sirioberati/website-extractor.git
-   cd website-extractor
+   git clone https://github.com/sirioberati/WebTwin.git
+   cd WebTwin
    ```
 
 2. Create a virtual environment:
